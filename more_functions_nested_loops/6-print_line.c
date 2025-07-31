@@ -1,7 +1,9 @@
 #include "main.h"
 /**
  * print_line - draw a straight line
- *@n lineeee integerrr
+ *
+ * @n lineeee integerrr
+ *
  * Return: Always 0 (Succes)
  */
 void print_line(int n)
@@ -11,6 +13,7 @@ void print_line(int n)
 	if (n <= 0)
 	{
 		_putchar('\n');
+
 		return;
 	}
 
