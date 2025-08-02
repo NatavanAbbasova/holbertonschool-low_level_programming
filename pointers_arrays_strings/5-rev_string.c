@@ -1,5 +1,4 @@
 #include "main.h"
-#include <string.h>
 /**
  * rev_string - stringi cevirir
  * @s input olacey
@@ -7,9 +6,12 @@
  */
 void rev_string(char *s)
 {
-	int i = 0;
-	int j = strlen(s) - 1;
+	int i = 0, int j = 0;
 	char hansisa;
+
+	while (s[j])
+		j++;
+	j--;
 
 	while (i < j)
 	{
