@@ -3,7 +3,8 @@
  * rev_string - stringi cevirir
  * @s input olacey
  *
- * Description: niye yaziir tutmadim
+ * Description: niye yaziir tutmadim indi tutdum
+ * yazilib s ucun errordan sonda
  */
 void rev_string(char *s)
 {
