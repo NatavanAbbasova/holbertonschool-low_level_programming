@@ -2,7 +2,7 @@
 
 /**
  * leet - nese
- *@s: string
+ * @s: string
  *
  * Return: return
  */
