@@ -1,0 +1,26 @@
+#include "main.h"
+
+/**
+ * leet - nese
+ *@s: string
+ *
+ * Return: return
+ */
+char *leet(chat *c)
+{
+	char letters[] = "aAeEoOtTlL";
+	char replace[] = "4433007711";
+	int i, j;
+
+	for (i = 0; s[i] != '\0'; i++)
+	{
+		for (j = 0; j < 10; j++)
+		{
+			if (s[i] == letters[j])
+			{
+				s[i] = replace[j];
+			}
+		}
+	}
+	return (s);
+}
