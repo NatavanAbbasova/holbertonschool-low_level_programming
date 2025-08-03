@@ -2,7 +2,7 @@
 /**
  * rev_string - stringi cevirir
  * @s input olacey
- * 
+ *
  * Description: niye yaziir tutmadim
  */
 void rev_string(char *s)
