@@ -6,7 +6,7 @@
  *
  * Return: return
  */
-char *leet(chat *c)
+char *leet(char *c)
 {
 	char letters[] = "aAeEoOtTlL";
 	char replace[] = "4433007711";
