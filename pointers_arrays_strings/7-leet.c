@@ -6,7 +6,7 @@
  *
  * Return: return
  */
-char *leet(char *c)
+char *leet(char *s)
 {
 	char letters[] = "aAeEoOtTlL";
 	char replace[] = "4433007711";
