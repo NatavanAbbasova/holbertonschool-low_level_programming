@@ -1,8 +1,7 @@
 #include "main.h"
-
 /**
  * puts2 - bunlarikitabxanadan goturmek mumkun deyil?!
- * @str: inputdudaaa 
+ * @str: inputdudaaa
  *
  * Description: yeni ki cut sirda duran herfleri
  * put ele
