@@ -1,10 +1,10 @@
 #include "main.h"
 /**
  * rev_string - stringi cevirir
- * @s input olacey
+ * @s: input olacey
  *
  * Description: niye yaziir tutmadim indi tutdum
- * yazilib s ucun errordan sonda
+ * yazilib s ucun errordan sonra
  */
 void rev_string(char *s)
 {
