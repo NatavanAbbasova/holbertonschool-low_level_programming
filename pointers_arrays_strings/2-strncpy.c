@@ -1,8 +1,7 @@
 #include "main.h"
-
 /**
  * _strncpy - bayaqkinin eynisi amma bu cpoy edir
- * @dest: getdiyi destination 
+ * @dest: getdiyi destination
  * @src: movcud oldugu source
  * @n: kececek stringlerin sayi
  *Return: return to desti
