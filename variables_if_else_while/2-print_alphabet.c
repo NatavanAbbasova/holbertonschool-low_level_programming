@@ -9,7 +9,7 @@ int main(void)
 
 	char nese;
 
-	for (nese = 'a'; nese < z; nese++)
+	for (nese = 'a'; nese < 'z'; nese++)
 		putchar(nese);
 	putchar('\n');
 	return (0);
