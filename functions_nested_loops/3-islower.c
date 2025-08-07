@@ -1,7 +1,8 @@
 #include "main.h"
 /**
  * _islower - yoclayir ki if lowercase or not
- *@ c: herf
+ * @c: herf
+ * Return: herf olsa 1 olmasa 0
  */
 int _islower(int c)
 {
