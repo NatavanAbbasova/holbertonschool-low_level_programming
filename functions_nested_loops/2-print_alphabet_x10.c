@@ -5,12 +5,13 @@
  */
 void print_alphabet_x10(void)
 {
-	char line[] = "abcdefghijklmnopqrstuvwxyz\n";
-	int i = 0;
+	char line[] = "abcdefghijklmnopqrstuvwxyz";
+	int i;
 
 	for (i = 0; i < 10; i++)
 	{
 		int h = 0;
+
 		while (line[h] != '\0')
 		{
 			_putchar(line[h]);
