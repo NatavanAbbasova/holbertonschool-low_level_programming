@@ -1,7 +1,6 @@
 #include "main.h"
 /**
  * print_alphabet_x10 - 10 defe cap edecek line
- * @s: string olacaq
  */
 void print_alphabet_x10(void)
 {
