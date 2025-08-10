@@ -1,0 +1,15 @@
+#include <stdio.h>
+/**
+ *  main - fsdlfjlsdjlk
+ * @argc: Argument count
+ * @argv: Argument vector
+ * Return: return
+ */
+int main(int argc, char *argv[])
+{
+	int i;
+
+	for (i = 0; i < argc; i++)
+		printf("%s\n", argv[i]);
+	return (0);
+}
