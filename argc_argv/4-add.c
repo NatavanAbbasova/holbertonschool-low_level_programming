@@ -1,13 +1,11 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <ctype.h>
-#include "main.h"
 /**
- * main - adds positive numbers.
+ * main - fsjdkhdgjltg
  * @argc: argument count
  * @argv: argument vector
- *
- * Return: 0 on success, 1 on error
+ * Return: return
  */
 int main(int argc, char *argv[])
 {
