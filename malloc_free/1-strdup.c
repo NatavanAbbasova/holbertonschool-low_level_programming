@@ -17,7 +17,7 @@ unsigned int my_length(char *s)
 }
 
 /**
- * _strdup - woman ideasiz = bird qithout wing
+ * _strdup - woman ideasiz = bird without wing
  * bu tasklarin zor adlari var e
  * @str: strindideee
  * Return: malloc ile calloc arasindaki ferq odur kii
