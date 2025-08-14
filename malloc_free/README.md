@@ -8,5 +8,5 @@ ona gore de ielts derslerine yaxsi hazirlasa bilmirem.
 muellim kecen defe eve shikayet eledii
 fikirlesoirem ki oradan cixim
 hem cox vaxtimi alir hem de pubgde event eleye bilmirem vaxt olmur deye
-bir terefden de coc-da 3 hesab idare edirem + clash rpyalede 7k kupaya kasiram
-her sey bir terefe mene saglam team lazimdir 3 nefer elave, mobile legendsde mistike rank kasmaga
+bir terefden de coc-da 3 hesab idare edirem + clash royale-de 7k kupaya kasiram
+her sey bir terefe mene saglam team lazimdir 3 nefer elave, mobile legends-de mistike rank kasmaga
