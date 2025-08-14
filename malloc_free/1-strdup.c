@@ -21,8 +21,8 @@ unsigned int my_length(char *s)
  * bu tasklarin zor adlari var e
  * @str: strindideee
  * Return: malloc ile calloc arasindaki ferq odur kii
- * asagida vurma isaresi yerine vergul qoyursan,
- * ozu tutur
+ * asagida vurma isaresi yerine vergul qoyursan
+ * ozu tutur sohbeti
  */
 char *_strdup(char *str)
 {
