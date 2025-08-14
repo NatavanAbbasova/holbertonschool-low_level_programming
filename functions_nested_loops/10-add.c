@@ -1,6 +1,6 @@
 #include "main.h"
 /**
- * add men bunu haradasa elemisem eee
+ * add men bunu elemisem
  * @a: flkflkd
  * @b: fjlkjlf
  * Return: return
