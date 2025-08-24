@@ -1,9 +1,10 @@
 #include <stdio.h>
 #include <stdarg.h>
 /**
- * print_numbers - printideeeeee
- * @separator: dfdssf
- * @n: mennnnnnnnnnnn
+ * print_numbers - prints numbers separated by a string
+ * @separator: string to print between numbers
+ * @n: number of integers to print
+ *
  * Description: fddg
  */
 void print_numbers(const char *separator, const unsigned int n, ...)
@@ -26,4 +27,4 @@ void print_numbers(const char *separator, const unsigned int n, ...)
 
 	printf("\n");
 	va_end(task1);
-}i
+}
