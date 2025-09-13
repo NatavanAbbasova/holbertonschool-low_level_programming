@@ -2,7 +2,7 @@
 #include "lists.h"
 /**
  * free_list - bjdsghkjshksd
- * @head: jfd;okf;
+ * @head: jfdmhgjmjk
  */
 void free_list(list_t *head)
 {
